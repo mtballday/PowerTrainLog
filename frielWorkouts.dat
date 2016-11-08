@@ -1,0 +1,160 @@
+<workoutVersion>1
+<title>Recovery Ride
+<abbrev>E1
+<description>Zone 1 less than 1 hour.
+<applicablephases>Base 1,Base 2,Base 3,Base 4,Build 1,Build 2,Build 3,Build 4,Peak,Race,Transition,Prep
+<end>
+<title>Endurance Ride
+<abbrev>E2
+<description>Zone 2-3, CP180 for several hours. Cross training OK.
+<applicablephases>Base 1,Base 2,Base 3,Base 4,Build 1,Build 2,Build 3,Build 4,Peak,Race,Transition,Prep
+<end>
+<title>Hilly Endurance
+<abbrev>F1
+<description>4-6 6.98721e-306rades, several minutes to climb. Stay seated. HR4-5 or CP30-60. RPM>60.
+<applicablephases>Base 2,Base 3
+<end>
+<title>Power Stomps
+<abbrev>PS
+<description>Push as hard as possible for about 12 seconds from a stop
+<applicablephases>Base 1, Base 2, Base 3
+<end>
+<title>Big-Gear Climbs
+<abbrev>F2
+<description>Steep hills (>8) 1-2 minutes climb. Stay seated. CP6-30, HR 5-6. 3-5 Minutes recovery. 6-30 Minutes total climbing in workout.
+<applicablephases>Base 3,Build 1
+<end>
+<title>Spin-Ups
+<abbrev>S1
+<description>Every 5 minutes slowly increase cadence to max over 30 seconds and hold as long as possible.
+<applicablephases>
+<end>
+<title>Isolated Leg
+<abbrev>S2
+<description>Ride with one leg until tired. Concentrate on form, not power. 80-100 RPM.
+<applicablephases>
+<end>
+<title>Fixed Gear
+<abbrev>S3
+<description>Fixed gear bike (39-42 x 19-22) and CP90-180 (HR 2-3).
+<applicablephases>
+<end>
+<title>Form Sprints
+<abbrev>S4
+<description>6-10 Sprints, 10 seconds eash, slight downhill or tailwind. CP1 power. 
+<applicablephases>
+<end>
+<title>Off-road Handling Skills
+<abbrev>S5
+<description>Go to park. Practice bunny-hopping, jumping, wheelies, balance, slalom. 
+<applicablephases>
+<end>
+<title>Tempo
+<abbrev>M1
+<description>CP90, HR 3 20-60 minutes.
+<applicablephases>
+<end>
+<title>Cruise Intervals
+<abbrev>M2
+<description>3 to 5 intervals or 6-12 minutes. CP30, HR 4-5a. Coasting between OK.
+<applicablephases>Base 3,Base 4,Build 1,Build 2,Build 3,Build 4,Peak
+<end>
+<title>Hill Cruise Intervals
+<abbrev>M3
+<description>Same as M2 but on a hill.
+<applicablephases>
+<end>
+<title>Criss-Cross Threshold
+<abbrev>M4
+<description>20-40 minutes between HR low 4 and 5a or CP60,CP30 every 3 to 5 minutes.
+<applicablephases>
+<end>
+<title>Threshold
+<abbrev>M5
+<description>20-40 minutes CP60, hr 4-5a. Do at least 4 cruise interval sessions in year. before doing this one.
+<applicablephases>
+<end>
+<title>Shifting Cruise Intervals
+<abbrev>M6
+<description>Same as Cruise intervals except shift gears every 30 to 60 seconds. CP30 (hr 4-5a) for 60 seconds, then higher gear and CP12 (hr5b) for 30 seconds. Minimum 30 minutes total.
+<applicablephases>
+<end>
+<title>Anaerobic Endurance Intervals
+<abbrev>A1
+<description>4-6 intervals of 3-5 minutes each. High cadence. Z5b/CP6. Recover same duration as interval.
+<applicablephases>Build 1,Build 2,Build 3,Peak,Race
+<end>
+<title>Pyramid Intervals
+<abbrev>Same as A1, but 1,2,3,4,5,4,3,2,1 duration. Recovery same as preceding interval.
+<description>
+<applicablephases>
+<end>
+<title>Hill Intervals
+<abbrev>A3
+<description>Same as A1, but uphill and off-road. 9-18 minutes total climbing.
+<applicablephases>Build 1,Build 2,Build 3,Peak,Race
+<end>
+<title>Lactate Tolerance Repeats
+<abbrev>A4
+<description>On Slight incline, 3-5 sets of 3x30-40 seconds CP1. Recovery half as long a interval. Five minutes recovery after each set. Not more than 12 minutes total reps.
+<applicablephases>Build 2,Build 3,Peak
+<end>
+<title>Long Hill Repeats
+<abbrev>A5
+<description>4-8x90s on a climb. First 60s seated at 5b/CP6, with last 30s standing and sprinting CP1. 4 min recovery after each rep.
+<applicablephases>Build 2,Build 3,Peak
+<end>
+<title>Jumps
+<abbrev>P1
+<description>5x5 jumps on MTB. 1 min recovery between jumps, 5 minutes between reps
+<applicablephases>Build 1,Build 2,Build 3,Peak,Race
+<end>
+<title>Hill Sprints
+<abbrev>P2
+<description>8-12 sprints of 8-10s each. 5 min recovery after each sprint
+<applicablephases>Build 1,Build 2,Build 3,Peak,Race
+<end>
+<title>Crit Sprints
+<abbrev>P3
+<description>6-9x25-35s sprints including some corners. CP1. 5 mins between sprints
+<applicablephases>Build 2,Build 3,Peak,Race
+<end>
+<title>Testing
+<abbrev>TST
+<description>6 and 12 minutes day 1. 12s, 1, 30 minutes day 2.
+<applicablephases>
+<end>
+<phase>Base 1
+<phasecolour>128,128,128
+<phase>Base 2
+<phasecolour>0,128,64
+<phase>Base 3
+<phasecolour>128,255,128
+<phase>Base 4
+<phasecolour>128,128,64
+<phase>Build 1
+<phasecolour>128,255,255
+<phase>Build 2
+<phasecolour>0,0,255
+<phase>Build 3
+<phasecolour>128,64,0
+<phase>Build 4
+<phasecolour>64,128,128
+<phase>Peak
+<phasecolour>255,128,255
+<phase>Race
+<phasecolour>255,0,0
+<phase>Transition
+<phasecolour>210,210,0
+<phase>Prep
+<phasecolour>0,255,128
+<phase>HyperTrophy
+<phasecolour>0,100,0
+<phase>Strength
+<phasecolour>0,150,0
+<phase>Power
+<phasecolour>0,200,0
+<phase>Supermax
+<phasecolour>100,0,0
+<phase>MSPO
+<phasecolour>200,0,0

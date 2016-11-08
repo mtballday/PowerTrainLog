@@ -1,0 +1,50 @@
+POWERTRAININGLOG10
+<name>Rich
+<zone1>115
+<zone2>146
+<zone3>153
+<zone4>163
+<zone5>167
+<zone6>173
+<resthr>45
+<hrlimit>184
+<ptdir>/mnt/y/Sports/Cycling/PTFiles/
+<ctdir>/mnt/y/Sports/Cycling/CTFiles/
+<polardir>/mnt/y/Sports/HRFiles/rich/
+<garminfile>/mnt/y/DelToday/garmin.tcx
+<ppdir>/mnt/y/Sports/Cycling/PPFiles/
+<ppprefix>pp
+<database>/mnt/y/Sports/Cycling/rich03.pdt
+<workout>/mnt/y/Sports/Cycling/frielWorkouts.dat
+<cp02>997
+<cp1>479
+<cp6>313
+<cp12>295
+<cp30>280
+<cp60>270
+<cp90>220
+<cp180>200
+<ctcorrectionfactor>1.000000
+<ptcorrectionfactor>1.000000
+<polarcorrectionfactor>1.000000
+<shortride>4500
+<longride>7500
+<thresholdpower>255
+<mtbthreshold>240
+<thresholdhr>161
+<hrcutoff>120
+<acutetc>5
+<chronictc>40
+<bike>Superfly100
+<bike>Cannondale Caffeine 08
+<bike>Cannondale System 6
+<bike>Cannondale CX9
+<bike>Cannondale Scalpel
+<bike>Niner Air 9
+<bike>Intense Spider
+<bike>KHS Solo 1 SE 07
+<bike>Yellow Trainer
+<bike>Trek 5200 Road Bike
+<bike>Trek 9800 Hard Tail
+<bike>Turner Nitrous
+<bike>Litespeed Mira
