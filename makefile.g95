@@ -1,0 +1,16 @@
+#
+# File:         makefile.g95
+# Author:       Julian Smart
+# Created:      1999
+# Updated:
+# Copyright:    (c) Julian Smart, 1999
+#
+# Makefile for wxWindows sample (Cygwin/Mingw32).
+
+WXDIR = ../../wx
+
+TARGET=powerTrainLog
+OBJECTS = $(TARGET).o graphPanel.o wxReadTextFile.o powertap.o bikeDayEntry.o bikeEntryData.o timePeriod.o entryChooser.o userProfile.o polar.o entryCalendar.o tracePropertiesDialog.o computrainer.o powerplot.o workoutMenuEditor.o workouts.o planDisplay.o weekViewPanel.o batchEdit.o dayEntrySelectionDialog.o singleWeekViewPanel.o profileEditor.o combineFilesDialog.o interval.o
+
+include $(WXDIR)/src/makeprog.g95
+
